@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Gabriel Melo 👋
 
 - 🔭 Currently work: Freelancer;
 - 🌱 I’m currently: C++, banco de dados;
